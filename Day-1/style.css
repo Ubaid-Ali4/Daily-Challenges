@@ -1,0 +1,87 @@
+body{
+    color: white;
+    background-color: rgb(43, 42, 46);
+    
+}
+
+
+
+#clock{
+    
+    color: white;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clock-background{
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -350%);
+
+    width: 12%;
+    padding: 12px;
+    border-radius: 60px;
+    background-color: rgb(23, 26, 69);
+}
+
+.search{
+    display: flex;
+    
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -350%);
+    justify-content: center;
+    align-items: center;gap: 12px;
+    width: 100%;
+    
+  
+    
+
+}
+input{
+    background-color: rgb(39, 57, 107);
+    border-radius: 25px;
+    border: 1px solid #7a7575;
+    height: 28px;
+    width: 50%;
+    max-width: none;
+}
+button[type="submit"]{
+    border: 1px solid #7a7575;
+    border-radius: 25px;
+    height: 28px;
+    cursor: pointer;
+}
+.apps-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(50px,1fr));
+    gap: 50px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    max-width: 800px;
+
+}
+.app-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+.app-icon img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 10%; /* Makes icons circular like Google's */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
