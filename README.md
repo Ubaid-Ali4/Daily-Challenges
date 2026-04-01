@@ -10,8 +10,10 @@ The purpose of this repository is to strengthen my front-end development "muscle
 ## 🛠️ Tech Stack
 * **Languages:** HTML, CSS, JavaScript
 
+## 📊 Progress Tracker
 | Day | Challenge | Preview | Tech Stack | Status |
 |:---:|:---|:---:|:---:|:---:|
-| 01 | **Smartboard Home Screen** | [View](./Day-01/) | HTML, CSS | ✅ Done |
+| 01 | **Smartboard Home Screen** | [View](./Day-1/) | HTML, CSS, JS | ✅ Done |
 | 02 | *Upcoming...* | - | - | ⏳ Pending |
+
 
