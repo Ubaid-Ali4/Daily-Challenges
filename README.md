@@ -14,6 +14,7 @@ The purpose of this repository is to strengthen my front-end development "muscle
 | Day | Challenge | Preview | Tech Stack | Status |
 |:---:|:---|:---:|:---:|:---:|
 | 01 | **Smartboard Home Screen** | [View](./Day-1/) | HTML, CSS, JS | ✅ Done |
+| 02 | **Google SearchBox** | [View](./Day-2/)  | HTML, CSS | ✅ Done |
 | 02 | *Upcoming...* | - | - | ⏳ Pending |
 
 
