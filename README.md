@@ -15,5 +15,10 @@ The purpose of this repository is to strengthen my front-end development "muscle
 |:---:|:---|:---:|:---:|:---:|
 | 01 | **Smartboard Home Screen** | [View](./Day-1/) | HTML, CSS, JS | ✅ Done |
 | 02 | **Google SearchBox** | [View](./Day-2/)  | HTML, CSS | ✅ Done |
+<<<<<<< HEAD
 | 03 | *Upcoming...* | - | - | ⏳ Pending |
+=======
+| 02 | *Upcoming...* | - | - | ⏳ Pending |
+
+>>>>>>> d11aef27ef711058bf484fcc0bbc9864bb0add0d
 
